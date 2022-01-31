@@ -3,9 +3,9 @@ This repo is going to focus on my cloud coruse from coursera.
 
 
 ## This is a demo on how to use the read me
-*One
-*Two
-*Three
+* One
+* Two
+* Three
 
 ## Gist example
 
